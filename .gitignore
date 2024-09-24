@@ -1,0 +1,21 @@
+__pycache__/
+Custom Data
+Data
+Data 2
+detections
+Open images dataset
+runs
+Videos/*
+!Videos/traffic 1.mp4
+Weights/*
+!Weights/Best Weight.pt
+/Data 2.zip
+/Data.zip
+/data_prep.py
+/data.yaml
+/test2.py
+/train.ipynb
+/yolo_plate_dataset.zip
+/yolov8m.pt
+/yolov8n.pt
+/.ipynb_checkpoints
