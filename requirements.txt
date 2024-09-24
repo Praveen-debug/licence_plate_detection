@@ -1,0 +1,10 @@
+easyocr==1.7.1
+numpy==2.1.1
+opencv_contrib_python==4.10.0.84
+opencv_python==4.9.0.80
+opencv_python_headless==4.10.0.84
+pandas==2.2.3
+Pillow==10.4.0
+supervision==0.23.0
+tqdm==4.66.5
+ultralytics==8.2.87
