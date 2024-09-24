@@ -2,6 +2,8 @@
 
 This project detects vehicles and their license plates using computer vision. It utilizes a custom-trained YOLO model for license plate detection and YOLOv8 for vehicle detection. OpenCV (`cv2`) is used for image processing tasks.
 
+**Python 3 is required. Recommended Version 3.11.8**
+
 ## Installation
 
 To install the required dependencies, run:
