@@ -24,7 +24,3 @@ This project can run in real-time with a good GPU, but it also supports saving d
 
 ___
 
-
-
-**Made By Praveen With Love ❤**
-
